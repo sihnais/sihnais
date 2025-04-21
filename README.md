@@ -1,7 +1,7 @@
 # Hello! I'm Daniela! 👋  
 
 📚 Systems Analysis and Development Student  
-💡 Exploring Front-End and Data Analysis  
+💡 Learning Quality Assurance  
 🚀 Seeking to improve my skills with projects and challenges 
 
 ### 🔧 Technologies I'm learning:
